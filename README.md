@@ -39,7 +39,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-    -- A closure is the concept of a function being nested within a an object or function and 
+    -- A closure is the concept of a function being nested within a an object or function and reach to variables outside of its window
 
 4. Describe the four rules of the 'this' keyword.
  
